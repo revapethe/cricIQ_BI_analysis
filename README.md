@@ -101,29 +101,7 @@ Key features:
 | Average Balls Faced | Economy Rate |
 | Innings Batted | Dot-Ball Percentage |
 
-## Dashboard Screenshots
 
-### Final XI Selection and Team Performance
-
-![Final XI Dashboard](screenshots/final-xi-team-performance.png)
-
-### Batting Performance Intelligence
-
-![Batting Dashboard](screenshots/batting-performance-analysis.png)
-
-### Bowling Performance Intelligence
-
-![Bowling Dashboard](screenshots/bowling-performance-analysis.png)
-
-### All-Rounder Performance Insights
-
-![All-Rounder Dashboard](screenshots/all-rounder-performance-kpis.png)
-
-## Project Demonstration
-
-A video walkthrough demonstrating dashboard navigation, player selection, interactive filtering, KPI analysis, and performance comparisons.
-
-[Watch the Power BI Dashboard Demonstration](Cricket%20video.mp4)
 
 ## Business Value
 
@@ -146,14 +124,6 @@ A video walkthrough demonstrating dashboard navigation, player selection, intera
 - Exploratory Data Analysis
 - Sports Performance Analytics
 
-## How to Run the Project
-
-1. Clone or download this GitHub repository.
-2. Open the Python notebook to review the data processing workflow.
-3. Open `Final Dashboard.pbix` using Microsoft Power BI Desktop.
-4. Update local data source paths if required.
-5. Refresh the datasets if necessary.
-6. Explore the interactive dashboards using filters, slicers, and player selections.
 
 ## Conclusion
 
